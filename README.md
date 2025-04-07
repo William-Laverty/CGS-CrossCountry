@@ -99,11 +99,6 @@ npm run dev
 npm run build
 ```
 
-- Lint the code:
-```bash
-npm run lint
-```
-
 ## 🚀 Deployment
 
 This project is configured for deployment on Vercel. Simply push your changes to the main branch, and Vercel will automatically deploy your application.
@@ -122,4 +117,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by [Your Name] 
+Made with ❤️ by [William Laverty](https://william-laverty.online/)
